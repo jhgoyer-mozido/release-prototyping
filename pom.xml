@@ -29,6 +29,12 @@
         </snapshotRepository>
     </distributionManagement>
 
+    <modules>
+        <module>foo1</module>
+        <module>foo2</module>
+        <module>foo3</module>
+    </modules>
+
     <build>
         <pluginManagement>
            <plugins>
