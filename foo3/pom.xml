@@ -5,12 +5,12 @@
     <parent>
         <groupId>demo.jgoyer</groupId>
         <artifactId>demo-parent</artifactId>
-        <version>1.0.19-SNAPSHOT</version>
+        <version>1.0.18.0-SNAPSHOT</version>
     </parent>
  
     <groupId>demo.jgoyer</groupId>
     <artifactId>foo3</artifactId>
-    <version>1.0.19-SNAPSHOT</version>
+    <version>1.0.18.0-SNAPSHOT</version>
     <name>foo3</name>
 
     <properties>
