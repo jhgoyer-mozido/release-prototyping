@@ -4,13 +4,13 @@
     <groupId>demo.jgoyer</groupId>
     <artifactId>demo-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.21</version>
+    <version>1.0.22-SNAPSHOT</version>
     <name>demo-parent</name>
     
     <scm>
         <connection>scm:git:https://github.com/jhgoyer-mozido/release-prototyping.git</connection>
         <developerConnection>scm:git:https://github.com/jhgoyer-mozido/release-prototyping.git</developerConnection>
-      <tag>core-projects-1.0.21</tag>
+      <tag>HEAD</tag>
   </scm>
     
     <distributionManagement>
